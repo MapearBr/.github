@@ -24,15 +24,6 @@ Prefeituras perdem receita todos os anos porque o cadastro imobiliário não aco
 - 📐 **Mede automaticamente** — perímetro e área de lotes e edificações, inclusive por imagens 360°
 - 🧩 **Módulos sem código** — saúde em casa, dengue, patrimônio histórico e outros, criados pelo próprio município
 
-## 🛠️ Stack
-
-Nossas soluções de geoprocessamento são construídas com:
-
-- **.NET / ASP.NET Core** — back-end e APIs
-- **PostgreSQL + PostGIS** — armazenamento e consultas espaciais
-- **Entity Framework Core + NetTopologySuite** — modelagem geoespacial
-- Processamento geoespacial e IA para detecção de edificações em imagens aéreas
-
 ## 📂 Repositórios
 
 Em breve publicaremos aqui bibliotecas, ferramentas internas e integrações open source relacionadas ao nosso stack de geoprocessamento.
